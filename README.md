@@ -79,6 +79,8 @@ Open anaconda prompt. Type “pip install numpy” and click enter. Type “pip 
 
 If you are using Pycharm IDE, you can install the packages through the command prompt and follow the same syntax as above.
 
+TEAM MEMBERS
+
 | CHARAN C D | 
 | MANOJ KIRUBAKARAN M | 
 | FRANSIS AJAY M| 
